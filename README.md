@@ -9,6 +9,8 @@ the details.
 
 ## Updates ##
 
+07/04/2020: Refactor major functions with FP style. Expect higher efficience.
+
 07/03/2020: Implement a basic version. Features include a plain test pattern,
     basic error handling and adaptative case sensitive/insensitive mode.
 
